@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "venv\\Scripts\\python.exe",
+		"editor.formatOnPaste": true,
+		"editor.formatOnType": true,
+		"editor.fontLigatures": true,
+		"editor.fontSize": 18,
+		"terminal.integrated.fontSize": 18
+	}
+}
