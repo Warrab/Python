@@ -35,7 +35,7 @@ def bubble_sort_2(NList):
 # LLL = [8, 3, 1, 1, 4]
 # LLL = [7, 8, 3, 4]
 # LLL = [1, 2, 3, 4]
-LLL = [4, 3, 2, 1]
+LLL = [111, 4, 3, 2, 1, 1]
 
 # L = list(range(len(LLL) - 1, 0, -1))
 # print('\tОбратный список\n', L)
