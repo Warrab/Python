@@ -1,10 +1,10 @@
-def bubble_sort(NList):
-    for N in range(len(NList) - 1, 0, -1):
-        # print(N)
-        for j in range(N):
-            if NList[j] > NList[j + 1]:
-                NList[j], NList[j + 1] = NList[j + 1], NList[j]
-            # print()
+# def bubble_sort(NList):
+#     for N in range(len(NList) - 1, 0, -1):
+#         # print(N)
+#         for j in range(N):
+#             if NList[j] > NList[j + 1]:
+#                 NList[j], NList[j + 1] = NList[j + 1], NList[j]
+#             # print()
 
 
 def bubble_sort_2(NList):
